@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ns3:modelConfig xsi:type="ns3:ModelConfig" folder="" pauseCalculations="false" entityCode="14" loadPath="check23" entityName="check23" version="13" name="check23" lastUpdated="2024-11-01T09:53:47.360+02:00" lastUpdatedBy="admin" id="admin:MODEL:check23" xmlns:ns6="http://www.modelshop.com/services/account/types" xmlns:ns5="http://www.modelshop.com/datacore/message/types" xmlns:ns8="http://www.modelshop.com/datacore/generator/types" xmlns:ns7="http://www.modelshop.com/datacore/repository/types" xmlns:ns2="http://www.modelshop.com/datacore/view/types" xmlns:ns4="http://www.modelshop.com/services/model/types" xmlns:ns3="http://www.modelshop.com/model/model/types" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <datalists entityCode="15" entityName="MainDatalist1" version="10" name="MainDatalist1" description="" created="2024-11-01T09:53:47.360+02:00" createdBy="admin" lastUpdated="2024-11-01T09:53:47.360+02:00" lastUpdatedBy="admin" id="MainDatalist1"/>
+    <views allColumns="true" default="true" modelView="true" entityName="check23" name="check23" description="Default view for list check23" id="check23"/>
+    <views allColumns="true" default="true" entityName="MainDatalist1" name="MainDatalist1" description="Default view for list MainDatalist1" id="MainDatalist1"/>
+    <extra name="ModelCanvasCoordinates" description="Coordinates for ModelCanvasCoordinates" id="ModelCanvasCoordinates">
+        <body>{"DATALIST:MainDatalist1":{"x":0,"y":0}}</body>
+    </extra>
+</ns3:modelConfig>
